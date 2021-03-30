@@ -1,6 +1,12 @@
 # dev-softplan
 > Desafio técnico - Softplan
 
+### Instruções
+
+Para rodar os exercícios, basta executar as classes PrimeiroExercicio.java e SegundoExercicio.java.
+
+Os testes podem ser rodados através do TestNG com coverage para identificar de forma rápida o nível de cobertura. 
+
 ### Exercício 1
 
 Com relação ao legado, optei por refatorar, mantendo o mesmo comportamento, 
