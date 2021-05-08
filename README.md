@@ -1,5 +1,5 @@
-# dev-softplan
-> Desafio técnico - Softplan
+# dev-exercicios
+> Desafio técnico
 
 ### Instruções
 
